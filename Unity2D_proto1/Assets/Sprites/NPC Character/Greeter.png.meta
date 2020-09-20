@@ -1,0 +1,1301 @@
+fileFormatVersion: 2
+guid: 82882dd693a02f249b4288cd72924cdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2813598899202178740
+    second: Greeter_0
+  - first:
+      213: -6681486668976507473
+    second: Greeter_1
+  - first:
+      213: 2035076424969926776
+    second: Greeter_2
+  - first:
+      213: 3782488999156225147
+    second: Greeter_3
+  - first:
+      213: -1311672091368327004
+    second: Greeter_4
+  - first:
+      213: 1885758880751825116
+    second: Greeter_5
+  - first:
+      213: 5955173099727931809
+    second: Greeter_6
+  - first:
+      213: 142614561496771235
+    second: Greeter_7
+  - first:
+      213: 2273635911835620657
+    second: Greeter_8
+  - first:
+      213: 5497137881432551565
+    second: Greeter_9
+  - first:
+      213: 503220367111519771
+    second: Greeter_10
+  - first:
+      213: -466971222337131881
+    second: Greeter_11
+  - first:
+      213: 2424759320983021183
+    second: Greeter_12
+  - first:
+      213: -5598013755139985435
+    second: Greeter_13
+  - first:
+      213: 6551532866021550070
+    second: Greeter_14
+  - first:
+      213: -6240735412616551295
+    second: Greeter_15
+  - first:
+      213: 1354803205751842131
+    second: Greeter_16
+  - first:
+      213: -1065945098774002224
+    second: Greeter_17
+  - first:
+      213: 6346355799825149142
+    second: Greeter_18
+  - first:
+      213: -4021838417537058962
+    second: Greeter_19
+  - first:
+      213: -2364810565789229716
+    second: Greeter_20
+  - first:
+      213: -3432547515812068951
+    second: Greeter_21
+  - first:
+      213: 1779558738386565149
+    second: Greeter_22
+  - first:
+      213: -3292822875209571794
+    second: Greeter_23
+  - first:
+      213: -7560954021147006909
+    second: Greeter_24
+  - first:
+      213: 7256254722738269944
+    second: Greeter_25
+  - first:
+      213: -4997926132432462866
+    second: Greeter_26
+  - first:
+      213: -670190247485707729
+    second: Greeter_27
+  - first:
+      213: -8526088692836305129
+    second: Greeter_28
+  - first:
+      213: 5777672508364905220
+    second: Greeter_29
+  - first:
+      213: 6699682710823930478
+    second: Greeter_30
+  - first:
+      213: 2050654718054303231
+    second: Greeter_31
+  - first:
+      213: 7200205984447019093
+    second: Greeter_32
+  - first:
+      213: 1541320853458243796
+    second: Greeter_33
+  - first:
+      213: -8081050634042666701
+    second: Greeter_34
+  - first:
+      213: 6010113569245367862
+    second: Greeter_35
+  - first:
+      213: 4038725102876406116
+    second: Greeter_36
+  - first:
+      213: 840965430526593195
+    second: Greeter_37
+  - first:
+      213: -8586567508874649865
+    second: Greeter_38
+  - first:
+      213: -599255339480476002
+    second: Greeter_39
+  - first:
+      213: 6431155097927093668
+    second: Greeter_40
+  - first:
+      213: -7088090418243294917
+    second: Greeter_41
+  - first:
+      213: -9019194474846120300
+    second: Greeter_42
+  - first:
+      213: 4439664779029171016
+    second: Greeter_43
+  - first:
+      213: 1976933737428866702
+    second: Greeter_44
+  - first:
+      213: -1164318362233375321
+    second: Greeter_45
+  - first:
+      213: -2188500784960856206
+    second: Greeter_46
+  - first:
+      213: -6928593704178695077
+    second: Greeter_47
+  - first:
+      213: 7833849741581384912
+    second: Greeter_48
+  - first:
+      213: -2507893985615264178
+    second: Greeter_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Greeter_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 573
+        width: 190
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6836737ed42c941aad449443d1f0b8
+      internalID: 2813598899202178740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 573
+        width: 189
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970e69a362198d4e9a08c0097d14b6e
+      internalID: -6681486668976507473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 572
+        width: 188
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50b93fe74eef040bd9712feca1301f
+      internalID: 2035076424969926776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 572
+        width: 187
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f6f45f87facc94e96b56a43e4e6996
+      internalID: 3782488999156225147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 572
+        width: 190
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d2429a9da55644af7678579a29be6
+      internalID: -1311672091368327004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_5
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 573
+        width: 189
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e62664b618ff947ad24c6a1c7345b0
+      internalID: 1885758880751825116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_6
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 572
+        width: 191
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64f92b64121801478d6590ac76f1976
+      internalID: 5955173099727931809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_7
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 572
+        width: 186
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bba60fbaa2b1d46a5e1d46977a5d2e
+      internalID: 142614561496771235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_8
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 573
+        width: 187
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfac34f93b6493548a0c80fc4aba5204
+      internalID: 2273635911835620657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_9
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 572
+        width: 186
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac47ca2c8b8662488a4d98ba1b248d3
+      internalID: 5497137881432551565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_10
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 719
+        width: 83
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385a2e5dc7edfe445afb039e84fdc553
+      internalID: 503220367111519771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_11
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 557
+        width: 88
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1093ffbc8bc33bb4cae37f7285e89e54
+      internalID: -466971222337131881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_12
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 696
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d931159934bf04892577b01421fbf6
+      internalID: 2424759320983021183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_13
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 696
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b55b87487734b4bb2942dacf913616
+      internalID: -5598013755139985435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_14
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 670
+        width: 57
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e8240d185de245b135dc4cc1c8725
+      internalID: 6551532866021550070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_15
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 673
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72592377c37a645a517b29ae7bdfc8
+      internalID: -6240735412616551295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_16
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 669
+        width: 52
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092b06546d58fc742bc2842d005219ad
+      internalID: 1354803205751842131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_17
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 678
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bdfefb85ac36f49a558407a0aa098e
+      internalID: -1065945098774002224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_18
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 673
+        width: 49
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfd0f9273d878348a2c617e06bba5c6
+      internalID: 6346355799825149142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_19
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 609
+        width: 43
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81a9185c750934d8b85785610b4b3d
+      internalID: -4021838417537058962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_20
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 608
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a5ebaeb29a9e443b678287f62c6cf8
+      internalID: -2364810565789229716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_21
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 590
+        width: 124
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288f9e71eb5678648ac70c3aa9153103
+      internalID: -3432547515812068951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_22
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 574
+        width: 145
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cd1eeaa84d9694c83405878a510bb1
+      internalID: 1779558738386565149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_23
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 558
+        width: 49
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9351066bc11cc1447b1061a9613dc2f0
+      internalID: -3292822875209571794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_24
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 558
+        width: 28
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2c7396f3f33bb48bd75a6812857073
+      internalID: -7560954021147006909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_25
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 560
+        width: 45
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17081458fa241824ea57bdc1a54bdb9d
+      internalID: 7256254722738269944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 298
+        width: 190
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54370dd77cb5844995809047eb4029
+      internalID: -4997926132432462866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 298
+        width: 194
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b2842a89f3c94586fb2869ffdc72f
+      internalID: -670190247485707729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 299
+        width: 193
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a77e43618caf944cb0965583db61e24
+      internalID: -8526088692836305129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 299
+        width: 192
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38218b4ac2882754fb480866ac86aec7
+      internalID: 5777672508364905220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_30
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 299
+        width: 194
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249b6bf34b77314d9f80df1451ff034
+      internalID: 6699682710823930478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 296
+        width: 194
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6e19f977c1efb4db4bbb80e84bab00
+      internalID: 2050654718054303231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_32
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 298
+        width: 190
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beee3f2d41a09a54b88d3a95e06d71df
+      internalID: 7200205984447019093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_33
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 299
+        width: 194
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce594ba7ce845b4ba4745116abd0154
+      internalID: 1541320853458243796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_34
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 299
+        width: 193
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8345efd77c205e54595c6ccb63bcb8ed
+      internalID: -8081050634042666701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_35
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 299
+        width: 193
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d60251cee58144485936a76192613c
+      internalID: 6010113569245367862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_36
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 299
+        width: 194
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e088246d5e6bdaf49b82dff08da811b0
+      internalID: 4038725102876406116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_37
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 299
+        width: 195
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19d2ca21993c4045a8f8d7cc06a9fa4
+      internalID: 840965430526593195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 190
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3057d582679b418f4bdf87be1ee9e
+      internalID: -8586567508874649865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 29
+        width: 194
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb14327fcfbca844b04b483bf938e45
+      internalID: -599255339480476002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_40
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 29
+        width: 194
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1d3c7ddf9b9b141aedb4c795bd6439
+      internalID: 6431155097927093668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_41
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 29
+        width: 192
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da4d7ce5d2f2b45bf22698360eab70
+      internalID: -7088090418243294917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_42
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 29
+        width: 193
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7239ecdfac52f86488d51a906317aa11
+      internalID: -9019194474846120300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_43
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 28
+        width: 193
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c49ec848db078d4b99fa44285587518
+      internalID: 4439664779029171016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_44
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 29
+        width: 190
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec6eb650238c184a8752e04b33fd917
+      internalID: 1976933737428866702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_45
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 30
+        width: 194
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb5e6dbd8599b14997b29e2722ec66e
+      internalID: -1164318362233375321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_46
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 30
+        width: 193
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9bed487320d4942b4ad7c237f4f943
+      internalID: -2188500784960856206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_47
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 30
+        width: 193
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d661b776cf917445aa283b46c7aecaa
+      internalID: -6928593704178695077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_48
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 30
+        width: 194
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b3ae64f093da47830313a567f4dda
+      internalID: 7833849741581384912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeter_49
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 30
+        width: 193
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd0b2a5ad45c24aa78222cbca69602
+      internalID: -2507893985615264178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cdb2e5265d8a08c45891ebff644ac810
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
