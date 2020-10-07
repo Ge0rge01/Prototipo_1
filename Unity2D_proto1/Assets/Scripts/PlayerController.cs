@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     public float Speed = 1.5f;
     //public LayerMask groundLayer;
     public bool isGrounded;
+    private int healthPoints;
     private bool doubleJump; //Variable para el uso del doble salto del pj
     public Animator animator; //probar a ponerla private
 
@@ -161,7 +162,6 @@ public class PlayerController : MonoBehaviour
         //  rigidbody.velocity = new Vector2(-maxSpeed, rigidbody.velocity.y);
         //}
 
-        Debug.Log(rigidbody.velocity.x);
         }
     }
 
@@ -195,7 +195,33 @@ public class PlayerController : MonoBehaviour
         this.animator.SetBool("isAlive", false);
     }
 
+    private void OnTriggerEnter2D(Collider2D otherCollider)
+    {
+        if(otherCollider.tag == "Enemy")
+        {
+           // this.healthPoints -= 10;
+        }
 
-    
+        if (otherCollider.tag == "Rock")
+        {
+           // this.healthPoints -= 5;
+        }
+
+        //Si el jugador esta inGame y tiene vida 0 o menos, entonces lo mato
+        if (GameManager.sharedInstance.currentGameState == GameState.InGame && this.healthPoints <= 0)
+        {
+            Kill();
+        }
+
+        if (otherCollider.tag == "NPC")
+        {
+           // Debug.Log("El player se choca contra el collider de un NPC");
+            //Hay que sacar un texto informativo con la letra que pulsar para hablar, entonces es cuando empieza la conversación
+
+        }
+    }
+
+
+
 
 }

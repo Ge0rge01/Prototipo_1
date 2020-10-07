@@ -7,6 +7,10 @@ TagManager:
   - Ground
   - platform
   - GroundKill
+  - Enemy
+  - Rock
+  - NPC_left
+  - NPC_right
   layers:
   - Default
   - TransparentFX
@@ -18,10 +22,10 @@ TagManager:
   - 
   - Ground
   - GroundKill
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - NPC_left
+  - NPC_right
   - 
   - 
   - 
